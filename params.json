@@ -1,0 +1,6 @@
+{
+  "name": "Vulcanasap",
+  "tagline": "Vulnerabilities scanner for SAP",
+  "body": "# vulcanasap\r\n\r\nVulnerabilities scanner for SAP\r\n\r\nBecause not exist nothing (opensource) related to SAP, WIP :)\r\n\r\nWorking with:\r\n- Linux Manjaro (Archlinux) last version.\r\n- Python 3.*\r\n    requisites:\r\n    - nothing for now\r\n- Django 1.9.*\r\n    requisites:\r\n    - nothing for now\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
