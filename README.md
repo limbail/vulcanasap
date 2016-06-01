@@ -1,9 +1,7 @@
 # vulcanasap
 [vulcanasap website](http://limbail.github.io/vulcanasap/)
 
-Vulnerabilities scanner for SAP
-
-Because not exist nothing (opensource) related to SAP, WIP :)
+Vulnerabilities scanner, db Vulnerabilities exported from this awesome webpage: www.cvedetails.com
 
 Working with:
 - Linux Manjaro (Archlinux) last version.
