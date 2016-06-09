@@ -11,3 +11,4 @@ Working with:
 - Django 1.9.*
     requisites:
     - nothing for now
+- Kivy Client Desktop (last version) ???
