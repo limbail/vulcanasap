@@ -15,10 +15,7 @@ Working with:
 
 
 Links:
-[Manjaro website](https://manjaro.github.io/)
-
-[Python website](https://www.python.org/)
-
-[Django website](https://www.djangoproject.com/)
-
-[Kivy website](https://kivy.org/)
+1 [Manjaro website](https://manjaro.github.io/)
+2 [Python website](https://www.python.org/)
+3 [Django website](https://www.djangoproject.com/)
+4 [Kivy website](https://kivy.org/)
