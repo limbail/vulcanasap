@@ -7,10 +7,10 @@ Vulnerabilities scanner, db Vulnerabilities exported from this awesome webpage: 
 * Linux Manjaro (Archlinux) last version. 
 * Python 3.* 
  * requisites:
-  * nothing for now
+   * nothing for now
 * Django 1.9.* 
  * requisites:
-  * nothing for now
+   * nothing for now
 * Kivy Client Desktop (last version) ??? 
 
 
